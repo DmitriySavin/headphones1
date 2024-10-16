@@ -4,11 +4,45 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Page title</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/3.0.1/modern-normalize.min.css" integrity="sha512-q6WgHqiHlKyOqslT/lgBgodhd03Wp4BEqKeW6nNtlOY4quzyG3VoQKFrieaCeSnuVseNKRGpGeDU3qPmabCANg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./sass/index.scss" />
     <script type="module" src="./index.js"></script>
   </head>
   <body>
-    <!-- ❗️❗️❗️ Add partials like so for every page -->
-    <include src="./partials/example.html"></include>
+    <header class="header">
+      <div class="container">
+        <nav class="nav">
+          <ul class="nav__list">
+            <li class="nav__item">
+              <a href="#" class="nav__link">Characteristics</a>
+            </li>
+            <li class="nav__item">
+              <a href="#" class="nav__link">History</a>
+            </li>
+            <li class="nav__item">
+              <a href="#" class="nav__link">Reviews</a>
+            </li>
+            <li class="nav__item">
+              <a href="#" class="nav__link">Payment and delivery</a>
+            </li>
+          </ul>
+        </nav>
+        <p class="header__cancellation">
+          Noise cancellation headphones that are capable for a lot of things
+        </p>
+        <p class="header__playback">
+          Up to 20 hours of playback
+        </p>
+        <h1 class="header__title">Headphones Bose NC 700</h1>
+        <button class="header-order__button">Order</button>
+        <img src="./images/headphones-black_header.jpg" alt="black-headphones">
+    </header>
+    <main class="main">
+      
+    </main>
+    <footer class="footer">
+      
+    </footer>
+    <!-- <include src="./partials/example.html"></include> -->
   </body>
 </html>
