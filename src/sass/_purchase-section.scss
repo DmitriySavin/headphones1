@@ -1,19 +1,12 @@
 body {
     margin: 0%;
-    background-color: #101010;
+    background-color: $main-bg-color;
     /* background-color: black; */
 }
 
 html {
     box-sizing: border-box;
 }
-
-.container {
-    width: 1200px;
-    padding: 0 15px;
-    margin: 0 auto;
-}
-
 *::before,
 *::after {
     box-sizing: inherit;
