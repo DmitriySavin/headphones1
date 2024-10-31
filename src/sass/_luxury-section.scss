@@ -3,8 +3,9 @@
     padding-bottom: 170px;
 }
 // .container {
-//     width: 1440px;
-//     height: 858px;
+//     width: 1200px;
+//     margin: 0 auto;
+//     padding: 0 15px;
 // }
 .luxury__title {
     font-family: var(--font-family);
@@ -18,8 +19,10 @@ margin-bottom: 50px;
 margin-left: 700px;
 }
 .luxury__img {
-    width: 1503px;
+    // width: 100%;
     height: 524px;
+    // background-position: center;
+    // background-size: cover;
     margin-bottom: 50px;
 }
 .luxury-list__title {
