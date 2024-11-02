@@ -1,5 +1,13 @@
+@import './abstracts/placeholders';
+@import './abstracts/veriables';
+@import './base/container';
+@import './base/reser';
+@import './base/tupography';
+@import './components/buttons';
+@import './components/carousel';
+@import './layout/forms';
 @import './common';
 @import './example';
 @import './luxury-section';
 @import './purchase-section';
-@import './footer';
+@import './layout/footer';
