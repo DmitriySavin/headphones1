@@ -1,3 +1,16 @@
+body {
+    margin: 0%;
+    background-color: $main-bg-color;
+    /* background-color: black; */
+}
+
+html {
+    box-sizing: border-box;
+}
+*::before,
+*::after {
+    box-sizing: inherit;
+}
 h1,
 h2,
 h3,
