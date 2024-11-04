@@ -650,4 +650,51 @@ button {
   font-size: 20px;
   line-height: 145%;
   color: rgba(255, 255, 255, 0.8);
+}
+
+.bose {
+  padding-top: 85px;
+  padding-bottom: 85px;
+  padding-left: 190px;
+  background-color: black;
+}
+
+.bose-position {
+  display: flex;
+  width: 380px;
+  margin-right: 170px;
+}
+
+.bose__title {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #e7e7e7;
+  margin-bottom: 50px;
+}
+
+.bose-earphones__img {
+  width: 700px;
+  height: 586px;
+  margin-left: 233px;
+}
+
+.bose-list__title {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 125%;
+  color: #e7e7e7;
+  width: 380px;
+}
+
+.bose-list__text {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 145%;
+  color: rgba(255, 255, 255, 0.8);
 }/*# sourceMappingURL=index.css.map */
