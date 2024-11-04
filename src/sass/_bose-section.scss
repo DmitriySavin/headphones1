@@ -1,8 +1,8 @@
+
 .bose {
-    padding-top: 85px;
-    padding-bottom: 85px;
+    padding-bottom: 170px;
     padding-left: 190px;
-    background-color: black;
+     background-color: #101010;
 }
 .bose-position {
     display: flex;
@@ -31,6 +31,7 @@ font-size: 28px;
 line-height: 125%;
 color: #e7e7e7;
 width: 380px;
+margin-bottom: 20px;
 }
 .bose-list__text {
     font-family: var(--font-family);
