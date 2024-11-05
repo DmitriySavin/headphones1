@@ -1,57 +1,23 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
-.example {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  line-height: 1.5;
-  background-color: #fff;
-  color: #2f2f37;
-  max-width: 960px;
-  padding: 16px;
-}
-
-.example code {
-  font-family: monospace;
-  font-size: 16px;
-  font-weight: 700;
-  background-color: #ff6b0a;
-  color: #fff;
-  padding: 2px 6px;
-  border-radius: 2px;
-}
-
-.example .background {
-  height: 240px;
-  background-image: url("../images/logo.png");
-  background-size: cover;
-  background-position: center;
-}
-
 .container {
-  width: 1200px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
 @media screen and (min-width: 480px) {
   .container {
-    width: 480px;
+    width: 100%;
   }
 }
 @media screen and (min-width: 768px) {
   .container {
-    width: 768px;
+    width: 100%;
   }
 }
-
-.purchase-img {
-  width: 700px;
-  height: 664px;
-}
-
-.info__bg {
-  background-image: url(../images/bg-feedback.jpg);
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  height: 524px;
+@media screen and (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
 }
 
 h1,
@@ -100,6 +66,63 @@ body {
   text-align: center;
   color: rgba(255, 255, 255, 0.9);
   position: relative;
+}
+
+.luxury {
+  background-color: #101010;
+  padding-bottom: 170px;
+}
+
+.luxury__title {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #e7e7e7;
+  margin-bottom: 50px;
+  margin-left: 700px;
+}
+
+.luxury__img {
+  width: 100%;
+  height: 524px;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+
+.luxury-list__title {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 125%;
+  color: #e7e7e7;
+  padding-bottom: 20px;
+}
+
+.luxury-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -moz-column-gap: 40px;
+       column-gap: 40px;
+}
+
+.luxury-list__item {
+  width: 510px;
+  /* margin-left: 40px; */
+  -moz-column-gap: 30px;
+       column-gap: 30px;
+}
+
+.luxury-list__text {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 145%;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 body {
