@@ -9,6 +9,7 @@
   .purchase__title {
     font-size: 24px;
     margin-bottom: 32px;
+    margin-top: 80px;
     // text-align: center;
   }
   .purchase-img {
@@ -33,7 +34,7 @@
   .feedback-bg {
     width: 420px;
     height: 355px;
-    background-image: url(/src/images/bg-feedback-480px.jpg);
+    background-image: url(../images/bg-feedback-480px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -59,10 +60,32 @@
   .feedback-bg {
     width: 700px;
     height: 390px;
-    background-image: url(/src/images/bg-feedback-768px.jpg);
+    background-image: url(../images/bg-feedback-768px.jpg);
   }
 }
-
+@media screen and (min-width: 1200px) {
+  .purchase {
+    position: relative;
+  }
+  .purchase-img {
+    width: 640px;
+  height: 645px;
+    position: absolute;
+    top: 0;
+    right: 30px;
+  }
+  .feedback-bg {
+    width: 1080px;
+    // height: 390px;
+    background-image: url(../images/bg-feedback.jpg);
+  }
+  .purchase-ul__item {
+    width: 400px;
+  }
+     .purchase__btn {
+       width: 400px;
+     }
+}
 .purchase {
   // width: 1253px;
   width: 100%;
