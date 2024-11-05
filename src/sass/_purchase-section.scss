@@ -76,7 +76,6 @@
   }
   .feedback-bg {
     width: 1080px;
-    // height: 390px;
     background-image: url(../images/bg-feedback.jpg);
   }
   .purchase-ul__item {
@@ -87,25 +86,15 @@
      }
 }
 .purchase {
-  // width: 1253px;
   width: 100%;
-  // margin-left: 187px;
-  /* margin: 0 auto; */
 }
-
-.perchase-position {
-  // display: flex;
-}
-
 .purchase__title {
   font-family: var(--font-family);
   font-weight: 600;
-  // font-size: 54px;
   line-height: 120%;
   letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #e7e7e7;
-  // margin-bottom: 45px;
 }
 
 .buttons-div {
@@ -144,15 +133,10 @@
 
 .purchase-ul {
   width: 400px;
-  //   height: 213px;
-  //   margin-right: 150px;
-  //   margin-bottom: 50px;
 }
 
 .purchase-ul__item {
   border-bottom: 2px solid rgba(255, 255, 255, 0.3);
-  /* border-top: 2px solid rgba(255, 255, 255, 0.3); */
-  /* opacity: 0.5; */
   padding-top: 25px;
   padding-bottom: 25px;
 }
@@ -198,11 +182,4 @@
   background: #b5302d;
 }
 
-.purchase-img {
-  // width: 700px;
-  // height: 664px;
-}
-
-// .bg-feedback__min {
-//   width: 430px;
-// }
+// Готово
