@@ -1,190 +1,185 @@
-body {
-    margin: 0%;
-    background-color: $main-bg-color;
-    /* background-color: black; */
-}
-
-html {
-    box-sizing: border-box;
-}
-*::before,
-*::after {
-    box-sizing: inherit;
-}
-
-h1,
-h2,
-h3,
-h4,
-p {
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
-ul {
-    margin-top: 0;
-    margin-bottom: 0;
-    padding: 0;
-    list-style: none;
-}
-
-img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-}
-
-a {
-    text-decoration: none;
-}
-
-/*  */
-.purchase {
-    width: 1253px;
-    height: 834px;
-    margin-left: 187px;
-    /* margin: 0 auto; */
-}
-
-.perchase-position {
+@media screen and (min-width: 480px) {
+  .purchase {
+    width: 480px;
+  }
+  .perchase-position {
+    // margin-left: 20px;
+    // margin-right: 20px;
+  }
+  .purchase__title {
+    font-size: 24px;
+    margin-bottom: 32px;
+    margin-top: 80px;
+    // text-align: center;
+  }
+  .purchase-img {
+    width: 430px;
+    // margin: 0 auto;
+  }
+  .purchase-ul__item {
+    width: 420px;
     display: flex;
+    justify-content: space-between;
+  }
+  .purchase-ul__svg {
+    width: 30px;
+    height: 30px;
+  }
+  .purchase__btn {
+    width: 420px;
+  }
+  .bg-feedback__min {
+    margin-top: 90px;
+  }
+  .feedback-bg {
+    width: 420px;
+    height: 355px;
+    background-image: url(../images/bg-feedback-480px.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 90px;
+  }
 }
-
+@media screen and (min-width: 768px) {
+  .purchase__title {
+    font-size: 30px;
+  }
+  .purchase-img {
+    width: 700px;
+  }
+  .purchase-ul__item {
+    width: 700px;
+  }
+  .purchase__desc {
+    font-size: 32px;
+  }
+  .purchase__btn {
+    width: 360px;
+  }
+  .feedback-bg {
+    width: 700px;
+    height: 390px;
+    background-image: url(../images/bg-feedback-768px.jpg);
+  }
+}
+@media screen and (min-width: 1200px) {
+  .purchase {
+    position: relative;
+  }
+  .purchase-img {
+    width: 640px;
+  height: 645px;
+    position: absolute;
+    top: 0;
+    right: 30px;
+  }
+  .feedback-bg {
+    width: 1080px;
+    background-image: url(../images/bg-feedback.jpg);
+  }
+  .purchase-ul__item {
+    width: 400px;
+  }
+     .purchase__btn {
+       width: 400px;
+     }
+}
+.purchase {
+  width: 100%;
+}
 .purchase__title {
-    font-family: var(--font-family);
-    font-weight: 600;
-    font-size: 54px;
-    line-height: 120%;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-    color: #e7e7e7;
-    margin-bottom: 45px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #e7e7e7;
 }
 
 .buttons-div {
-    margin-bottom: 50px;
+  margin-bottom: 50px;
+  margin-top: 40px;
 }
 
 .purchase-btn__black {
-    border-radius: 100%;
-    width: 70px;
-    height: 70px;
-    background-color: black;
-    border: 1px white solid;
-    margin-bottom: 20px;
-    margin-right: 20px;
+  border-radius: 100%;
+  width: 70px;
+  height: 70px;
+  background-color: black;
+  border: 1px white solid;
+  margin-bottom: 20px;
+  margin-right: 20px;
 }
 
 .purchase-btn__black:active,
 .purchase-btn__black:focus {
-    outline: 2px red solid;
-    outline-offset: -10px;
+  outline: 2px red solid;
+  outline-offset: -10px;
 }
 
 .purchase-btn__white {
-    border-radius: 100%;
-    border: 1px white solid;
-    width: 70px;
-    height: 70px;
+  border-radius: 100%;
+  border: 1px white solid;
+  width: 70px;
+  height: 70px;
 }
 
 .purchase-btn__white:active,
 .purchase-btn__white:focus {
-    outline: 2px red solid;
-    outline-offset: -8px;
+  outline: 2px red solid;
+  outline-offset: -8px;
 }
 
 .purchase-ul {
-    width: 400px;
-    height: 213px;
-    margin-right: 150px;
-    margin-bottom: 50px;
+  width: 400px;
 }
 
 .purchase-ul__item {
-    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
-    /* border-top: 2px solid rgba(255, 255, 255, 0.3); */
-    /* opacity: 0.5; */
-    padding-top: 25px;
-    padding-bottom: 25px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .purchase-ul__item:nth-child(1) {
-    border-top: 2px solid rgba(255, 255, 255, 0.3);
+  border-top: 2px solid rgba(255, 255, 255, 0.3);
 }
 
 .purchase-ul__text {
-    font-family: var(--font-family);
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 125%;
-    color: rgba(255, 255, 255, 0.8);
-    /* opacity: 1; */
-}
-
-/* .purchase-form {
-  width: 400px;
-    height: 213px;
-    margin-right: 150px;
-    margin-bottom: 90px;
-} */
-/* .purchase-form__label {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 16px;
   line-height: 125%;
   color: rgba(255, 255, 255, 0.8);
+  /* opacity: 1; */
 }
-.purchase-form__input {
-  border: none;
-  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
-  background-color: transparent;
-  color: #e9edfa;
-  outline: none;
-  padding-bottom: 8px;
-  padding-left: 6px;
-  opacity: 0.5;
-  width: 400px;
-  margin-bottom: 25px;
-} */
 .purchase__desc {
-    font-family: var(--font-family);
-    font-weight: 600;
-    font-size: 54px;
-    line-height: 120%;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-    color: #df3d3a;
-    margin-top: 40px;
-    margin-bottom: 30px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #df3d3a;
+  margin-top: 40px;
+  margin-bottom: 30px;
 }
 
 .purchase__btn {
-    width: 400px;
-    height: 68px;
-    background-color: #df3d3a;
-    font-family: var(--font-family);
-    font-weight: 600;
-    font-size: 20px;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.9);
-    border: none;
+  //   width: 400px;
+  height: 68px;
+  background-color: #df3d3a;
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.9);
+  border: none;
 }
 
 .purchase__btn:hover {
-    background: #b5302d;
+  background: #b5302d;
 }
 
-.purchase-img {
-    width: 700px;
-    height: 664px;
-}
-
-.info__bg {
-    background-image: url(../images/bg-feedback.jpg);
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    height: 524px;
-}
+// Готово
