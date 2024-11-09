@@ -703,12 +703,12 @@ button {
 
 @media screen and (min-width: 480px) {
   .luxury__img {
-    background-image: url("../images/luxury_phone.png");
-    width: 440px;
+    background-image: url("/src/images/luxury_phone.png");
     height: 400px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 32px;
+    background-size: cover;
   }
   .luxury-list {
     display: block;
@@ -739,6 +739,10 @@ button {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
+    position: absolute;
+    top: 55px;
+    left: 0;
+    background-size: contain;
   }
   .luxury-list__title {
     font-family: var(--font-family);
@@ -757,6 +761,7 @@ button {
   .luxury-list {
     display: flex;
     margin-left: 60px;
+    margin-top: 435px;
   }
   .luxury-list__item {
     width: 294px;
@@ -773,6 +778,9 @@ button {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: absolute;
+    top: 55px;
+    left: 0;
   }
   .luxury-list__item {
     width: 510px;
@@ -794,23 +802,22 @@ button {
 }
 .luxury {
   background-color: #101010;
-  padding-bottom: 170px;
+  padding-bottom: 100px;
+  position: relative;
 }
 
 .luxury__title {
   font-family: var(--font-family);
   font-weight: 600;
-  font-size: 42px;
+  font-size: 32px;
   line-height: 120%;
   letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #e7e7e7;
   margin-bottom: 50px;
-  margin-left: 700px;
 }
 
 .luxury__img {
-  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }

@@ -7,12 +7,13 @@
 // margin-bottom: 32px;
 }
 .luxury__img {
-    background-image: url('../images/luxury_phone.png');
-    width: 440px;
+    background-image: url('/src/images/luxury_phone.png');
+    // width: 440px;
     height: 400px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 32px;
+    background-size: cover;
 }
 .luxury-list {
     display: block;
@@ -43,6 +44,10 @@ margin-bottom: 32px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
+    position: absolute;
+    top: 55px;
+    left: 0;
+    background-size: contain;
 }
 .luxury-list__title {
     font-family: var(--font-family);
@@ -61,6 +66,7 @@ color: rgba(255, 255, 255, 0.8);
 .luxury-list {
     display: flex;
     margin-left: 60px;
+    margin-top: 435px;
 }
 .luxury-list__item {
     width: 294px;
@@ -77,6 +83,10 @@ color: rgba(255, 255, 255, 0.8);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+     position: absolute;
+    top: 55px;
+    left: 0;
+    
 }
 .luxury-list__item {
 width: 510px;
@@ -98,7 +108,8 @@ color: rgba(255, 255, 255, 0.8);
 }
 .luxury {
     background-color: #101010;
-    padding-bottom: 170px;
+    padding-bottom: 100px;
+    position: relative;
 }
 // .container {
 //     width: 1200px;
@@ -108,19 +119,20 @@ color: rgba(255, 255, 255, 0.8);
 .luxury__title {
     font-family: var(--font-family);
 font-weight: 600;
-font-size: 42px;
+font-size: 32px;
 line-height: 120%;
 letter-spacing: 0.02em;
 text-transform: uppercase;
 color: #e7e7e7;
 margin-bottom: 50px;
-margin-left: 700px;
+// margin-left: 700px;
 }
 .luxury__img {
-    background-size: cover;
+    // background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     
+   
 }
 .luxury-list__title {
     font-family: var(--font-family);
