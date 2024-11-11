@@ -131,19 +131,19 @@
     height: 68px;
   }
   .footer-div__list {
-      display: block;
-            margin-left: 180px;
-                margin-right: 180px;
+      // display: block;
+      //       margin-left: 180px;
+      //           margin-right: 180px;
   }
   .footer-list {
-flex-wrap: nowrap;
-width: 640px;
+// flex-wrap: nowrap;
+// width: 640px;
   }
-   .footer-list__item {
-    flex-basis: auto;
-   }
+  //  .footer-list__item {
+  //   flex-basis: auto;
+  //  }
         .footer-list__item +  .footer-list__item {
-             margin-left: 40px;
+            //  margin-left: 40px;
         }
            
     
