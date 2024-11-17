@@ -58,8 +58,8 @@
     width: 360px;
   }
   .feedback-bg {
-    width: 700px;
-    height: 390px;
+width: 660px;
+  height: 360px;
     background-image: url(../images/bg-feedback-768px.jpg);
   }
 }
@@ -78,12 +78,12 @@
   .feedback-bg {
     width: 1080px;
     background-image: url(../images/bg-feedback.jpg);
-    // background-position: center;
-    //   background-repeat: no-repeat;
-    //   background-size: cover;
-    //   width: 100%;
-    //   position: absolute;
-    //   left: 0;
+    background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      position: absolute;
+      left: 0;
   }
   .purchase-ul__item {
     width: 400px;
