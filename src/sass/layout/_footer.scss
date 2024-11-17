@@ -72,8 +72,8 @@
     width: 659px;
   }
   .footer__position {
-    margin-left: 40px;
-    margin-right: 40px;
+margin-left: auto;
+  margin-right: auto;
   }
   .footer__title {
     margin-top: 100px;
@@ -88,7 +88,7 @@
     display: flex;
     align-items: end;
     margin-top: 100px;
-    margin-left: 40px;
+    // margin-left: 40px;
   }
   .footer-list {
     flex-wrap: wrap;
