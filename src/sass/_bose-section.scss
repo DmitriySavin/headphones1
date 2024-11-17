@@ -1,4 +1,7 @@
 @media screen and (min-width: 480px) {
+    .bose {
+        padding-bottom: 55px;
+        }
 .bose__title {
 }
 .bose-list__title {
@@ -18,6 +21,7 @@
 @media screen and (min-width: 768px) {
 .bose {
      position: relative;
+    padding-bottom: 100px;
 }
 .bose__title {
     font-family: var(--font-family);
@@ -47,7 +51,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 @media screen and (min-width: 1200px) {
     .bose {
-    padding-bottom: 100px;
+    padding-bottom: 480px;
     padding-left: 20px;
      background-color: #101010;
 }
@@ -55,11 +59,13 @@ color: rgba(255, 255, 255, 0.8);
     width: 700px;
     height: 586px;
 }
-
+.bose-position {
+   position: relative;
+}
 }
 .bose {
-    padding-bottom: 420px;
-    padding-left: 20px;
+    // padding-bottom: 420px;
+    // padding-left: 20px;
      background-color: #101010;
 }
 .bose-position {

@@ -129,7 +129,7 @@ body {
     width: 700px;
   }
   .purchase-ul__item {
-    width: 700px;
+    width: 660px;
   }
   .purchase__desc {
     font-size: 32px;
@@ -138,13 +138,27 @@ body {
     width: 360px;
   }
   .feedback-bg {
-    width: 700px;
-    height: 390px;
+    width: 660px;
+    height: 360px;
     background-image: url(../images/bg-feedback-768px.jpg);
   }
 }
 @media screen and (min-width: 1200px) {
   .purchase {
+    position: relative;
+    height: 1100px;
+  }
+  .purchase .feedback-bg {
+    width: 1080px;
+    background-image: url(../images/bg-feedback.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: absolute;
+    left: 0;
+  }
+  .purchase-pos {
     position: relative;
   }
   .purchase-img {
@@ -152,11 +166,7 @@ body {
     height: 645px;
     position: absolute;
     top: 0;
-    right: 30px;
-  }
-  .feedback-bg {
-    width: 1080px;
-    background-image: url(../images/bg-feedback.jpg);
+    right: 0;
   }
   .purchase-ul__item {
     width: 400px;
@@ -321,8 +331,8 @@ body {
     width: 659px;
   }
   .footer__position {
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: auto;
+    margin-right: auto;
   }
   .footer__title {
     margin-top: 100px;
@@ -335,7 +345,6 @@ body {
     display: flex;
     align-items: end;
     margin-top: 100px;
-    margin-left: 40px;
   }
   .footer-list {
     flex-wrap: wrap;
@@ -622,8 +631,7 @@ button {
     margin-right: 35px;
   }
   .premium-design__title {
-    font-size: 37px;
-    width: 400px;
+    font-size: 41px;
   }
   .premium-design-list__item {
     margin-bottom: 24px;
@@ -686,8 +694,8 @@ button {
     font-size: 28px;
   }
   .premium-design-list__text {
-    font-size: 22px;
-    width: 510px;
+    width: 440px;
+    font-size: 18px;
   }
   .premium-design__img {
     position: static;
@@ -729,6 +737,8 @@ button {
 @media screen and (min-width: 480px) {
   .faq {
     width: 430px;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
   .accordion {
     width: 430px;
@@ -737,6 +747,8 @@ button {
 @media screen and (min-width: 768px) {
   .faq {
     width: 700px;
+    margin-top: 100px;
+    margin-bottom: 100px;
   }
   .accordion {
     width: 700px;
@@ -747,12 +759,19 @@ button {
     font-size: 44px;
   }
   .faq {
-    width: 780px;
+    width: 1200px;
+    margin-top: 160px;
+    margin-bottom: 160px;
   }
   .accordion {
-    width: 780px;
+    width: 1100px;
   }
 }
+.faq {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .accordion-item {
   background-color: rgba(255, 255, 255, 0.3019607843);
   margin-bottom: 30px;
@@ -830,6 +849,9 @@ button {
 }
 
 @media screen and (min-width: 480px) {
+  .luxury {
+    padding-bottom: 50px;
+  }
   .luxury__img {
     background-image: url("/src/images/luxury_phone.png");
     height: 400px;
@@ -858,6 +880,9 @@ button {
 }
 
 @media screen and (min-width: 768px) {
+  .luxury {
+    padding-bottom: 100px;
+  }
   .luxury__title {
     text-align: right;
   }
@@ -899,6 +924,9 @@ button {
   }
 }
 @media screen and (min-width: 1200px) {
+  .luxury {
+    padding-bottom: 160px;
+  }
   .luxury__title {
     margin-left: 640px;
   }
@@ -930,7 +958,6 @@ button {
 }
 .luxury {
   background-color: #101010;
-  padding-bottom: 100px;
   position: relative;
 }
 
@@ -960,6 +987,97 @@ button {
 }
 
 .luxury-list__text {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 145%;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+@media screen and (min-width: 480px) {
+  .bose {
+    padding-bottom: 55px;
+  }
+  .bose-list__text {
+    width: 380px;
+  }
+  .bose-earphones__img {
+    background-image: url(../images/bose-phone-bg.png);
+    height: 370px;
+    margin-top: 35px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .bose {
+    position: relative;
+    padding-bottom: 100px;
+  }
+  .bose__title {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #e7e7e7;
+  }
+  .bose-list__text {
+    width: 296px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 145%;
+    color: rgba(255, 255, 255, 0.8);
+  }
+  .bose-earphones__img {
+    background-image: url(../images/bose-tablet-bg.png);
+    width: 354px;
+    height: 297px;
+    position: absolute;
+    top: -30;
+    right: 0;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .bose {
+    padding-bottom: 480px;
+    padding-left: 20px;
+    background-color: #101010;
+  }
+  .bose-earphones__img {
+    width: 700px;
+    height: 586px;
+  }
+  .bose-position {
+    position: relative;
+  }
+}
+.bose {
+  background-color: #101010;
+}
+
+.bose__title {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #e7e7e7;
+  margin-bottom: 50px;
+}
+
+.bose-list__title {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 125%;
+  color: #e7e7e7;
+  width: 380px;
+  margin-bottom: 16px;
+}
+
+.bose-list__text {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 16px;
