@@ -1,0 +1,179 @@
+@media screen and (min-width: 480px) {
+  .section-5 {
+    width: 480px;
+    margin-bottom: 55px;
+  }
+  .logo-5 {
+    font-size: 32px;
+  }
+  .advantages-text {
+    margin-bottom: 50px;
+  }
+  .advantages-text:before {
+    content: '•';
+    font-size: 44px;
+    top: -54px;
+  }
+  .advantages-h {
+    font-size: 20px;
+    width: 150px;
+  }
+  .advantages-np {
+    font-size: 16px;
+    width: 300px;
+  }
+  .logo-img {
+    width: 430px;
+    height: 430px;
+  }
+  .guarantees-svg {
+    display: none;
+  }
+}
+@media screen and (min-width: 768px) {
+  .section-5 {
+    width: 768px;
+    position: relative;
+    height: 442px;
+  }
+  .guarantees-pos {
+    position: relative;
+  }
+  .advantages-text {
+    margin-bottom: 90px;
+  }
+  .advantages-h {
+    width: 280px;
+  }
+  .advantages-np {
+    width: 250px;
+    font-size: 16px;
+  }
+  .section-content {
+    margin-left: 410px;
+  }
+  .logo-img {
+    width: 354px;
+    height: 442px;
+    top: 0;
+    // left: 0;
+    position: absolute;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .section-5 {
+    width: 1200px;
+    height: 565px;
+    margin-bottom: 150px;
+  }
+  .section-content {
+            margin-left: 670px;
+  }
+  .logo-5 {
+    font-size: 42px;
+  }
+  .advantages-h {
+    font-size: 28px;
+    width: 405px;
+  }
+  .advantages-np {
+      width: 330px;
+      font-size: 18px;
+  }
+  .logo-img {
+    width: 590px;
+    height: 565px;
+  }
+  .guarantees-svg {
+      display: block;
+        width: 260px;
+            height: 100px;
+            position: absolute;
+                right: -30px;
+            bottom: 10px;
+  }
+}
+.logo-5 {
+  color: #e7e7e7;
+  font-family: Gilroy;
+  // font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  /* 64.8px */
+  letter-spacing: 1.08px;
+  text-transform: uppercase;
+  padding-bottom: 50px;
+}
+.advantages-h {
+  color: #e7e7e7;
+  font-family: Gilroy;
+  // font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 125%;
+  padding-bottom: 30px;
+  /* 35px */
+}
+// .logo-img {
+//   width: 590px;
+//   height: 565px;
+// }
+.section-5 {
+  // width: 100%;
+  // display: flex;
+  background: #101010;
+//   align-items: center;
+margin-left: auto;
+    margin-right: auto;
+  //   margin-bottom: 170px;
+}
+
+.advantages-np {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Gilroy;
+  //   font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 145%;
+  /* 29px */
+}
+
+.advantages {
+  width: 405px;
+  //   height: 398px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.advantages-text {
+  position: relative;
+  //   margin-bottom: 80px;
+}
+
+.advantages-text::before {
+  content: '•';
+  color: #df3d3a;
+  position: absolute;
+  //   top: -34px;
+  //   font-size: 24px;
+  font-weight: bold;
+}
+
+.section-content {
+  // margin-left: 150px;
+}
+
+.ul_vector {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.png_element {
+  width: 100.698px;
+  height: 110.129px;
+  stroke-width: 1.3px;
+  stroke: #842131;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
