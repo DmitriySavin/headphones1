@@ -54,14 +54,14 @@
     width: 450px;
     font-size: 54px;
     height: 148px;
-    margin-left: 80px;
+    margin-left: 60px;
     padding-top: 94px;
     margin-bottom: 86px;
   }
 }
 
 .header-order__button {
-  width: 445px;
+  width: 420px;
   height: 68px;
   /* margin-left: 100px; */
   margin-top: 40px;
@@ -81,7 +81,7 @@
   @media screen and (min-width: 1200px) {
     width: 400px;
     height: 68px;
-    margin-left: 80px;
+    margin-left: 60px;
     margin-top: 94px;
   }
 }
@@ -106,4 +106,26 @@
     top: 0;
     right: -80px;
   }
+}
+.cancellation-img {
+  width: 420px;
+  height: 420px;
+
+@media screen and (min-width: 768px) {
+  width: 354px;
+    height: 340px;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+    @media screen and (min-width: 1200px) {
+width: 660px;
+  height: 598px;
+  right: -30px;
+    }
+
+}
+.cancellation-pos {
+  position: relative;
 }
