@@ -50,6 +50,9 @@ color: rgba(255, 255, 255, 0.8);
 }
 }
 @media screen and (min-width: 1200px) {
+    .bose-position {
+        position: relative;
+    }
     .bose {
     padding-bottom: 480px;
     padding-left: 20px;

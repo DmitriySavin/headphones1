@@ -2,6 +2,7 @@
   .premium-design {
     position: relative;
     height: 940px;
+    padding-top: 50px;
   }
   .premium-position {
     margin-left: 20px;
@@ -27,7 +28,7 @@
     width: 440px;
     height: 430px;
     position: absolute;
-    bottom: 0;
+    bottom: -40px;
     left: 20px;
     right: 20px;
   }
@@ -35,6 +36,7 @@
 @media screen and (min-width: 768px) {
   .premium-design {
     height: 540px;
+    padding-top: 100px;
   }
   .premium-position {
     margin: 0;
@@ -63,6 +65,7 @@
 @media screen and (min-width: 1200px) {
   .premium-design {
     height: 616px;
+    margin-top: 170px;
   }
   
   .premium-design__title {

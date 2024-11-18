@@ -67,8 +67,9 @@ width: 660px;
   .purchase {
     position: relative;
     height: 1100px;
-
-  .feedback-bg {
+    margin-top: 170px;
+  }
+  .feedback-bg { 
       width: 1080px;
       background-image: url(../images/bg-feedback.jpg);
       background-position: center;
@@ -78,7 +79,10 @@ width: 660px;
       position: absolute;
       left: 0;
     }
-
+  }
+  .purchase-pos {
+    position: relative;
+  }
   }
   .purchase-pos {
     position: relative;

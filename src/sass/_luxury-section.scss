@@ -1,7 +1,4 @@
 @media screen and (min-width: 480px) {
-    .luxury {
-padding-bottom: 50px;
-        }
 .luxury__title {
 // font-size: 24px;
 // width: 278px;
@@ -37,9 +34,6 @@ color: #e7e7e7;
 margin-bottom: 32px;
 }
 @media screen and (min-width: 768px){
-        .luxury {
-                padding-bottom: 100px;
-            }
 .luxury__title {
     text-align: right;
 }
@@ -82,9 +76,6 @@ color: rgba(255, 255, 255, 0.8);
 }
 }
 @media screen and (min-width: 1200px){
-    .luxury {
-            padding-bottom: 160px;
-        }
 .luxury__title {
     margin-left: 640px;
 }
