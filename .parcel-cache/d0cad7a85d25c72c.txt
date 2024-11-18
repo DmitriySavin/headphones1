@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+4795
+=======
+<<<<<<< HEAD
 4750
 37C:\go itins\headphones1\.editorconfig133733012862011206 0
 88C:\go itins\headphones1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133733949529056232 0
@@ -4752,6 +4755,7 @@
 52C:\go itins\headphones1\.github\workflows\deploy.yml133733012862021189 0
 =======
 4798
+>>>>>>> main
 66D:\StudioCode\headphones1\node_modules\lmdb\src\ordered-binary.cpp133729699204406919 0
 33D:\StudioCode\headphones1\.github133729696155651619 1
 56D:\StudioCode\headphones1\src\sass\base\_tupography.scss133754774596861741 0
@@ -4759,7 +4763,11 @@
 50D:\StudioCode\headphones1\src\sass\_creations.scss133763348807197057 0
 69D:\StudioCode\headphones1\node_modules\css-what\lib\commonjs\types.js133729699194906926 0
 89D:\StudioCode\headphones1\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1133729699199956903 1
+<<<<<<< HEAD
+48D:\StudioCode\headphones1\src\sass\index.css.map133763596173938459 0
+=======
 48D:\StudioCode\headphones1\src\sass\index.css.map133763353243810702 0
+>>>>>>> main
 96D:\StudioCode\headphones1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133729699192896916 0
 68D:\StudioCode\headphones1\node_modules\sass\types\legacy\render.d.ts133729699204026905 0
 39D:\StudioCode\headphones1\.editorconfig133729696155651619 0
@@ -4777,7 +4785,7 @@
 112D:\StudioCode\headphones1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\package.json133729699204076899 0
 119D:\StudioCode\headphones1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\package.json133729699204356905 0
 72D:\StudioCode\headphones1\node_modules\dom-serializer\lib\esm\index.d.ts133729699196126914 0
-47D:\StudioCode\headphones1\src\sass\_header.scss133754774596821545 0
+47D:\StudioCode\headphones1\src\sass\_header.scss133763596173898453 0
 61D:\StudioCode\headphones1\node_modules\callsites\package.json133729699189406989 0
 66D:\StudioCode\headphones1\node_modules\domutils\lib\stringify.d.ts133729699198366895 0
 79D:\StudioCode\headphones1\node_modules\type-fest\source\fixed-length-array.d.ts133729699196256915 0
@@ -4833,18 +4841,27 @@
 87D:\StudioCode\headphones1\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133729699196226912 0
 51D:\StudioCode\headphones1\node_modules\csso\LICENSE133729699189386906 0
 67D:\StudioCode\headphones1\node_modules\@parcel\cache\lib\types.d.ts133729699196186899 0
+<<<<<<< HEAD
+30D:\StudioCode\headphones1\dist133763596264483870 1
+45D:\StudioCode\headphones1\src\sass\index.scss133763596173948450 0
+=======
 30D:\StudioCode\headphones1\dist133763356765508859 1
 45D:\StudioCode\headphones1\src\sass\index.scss133763348807257311 0
+>>>>>>> main
 31D:\StudioCode\headphones1\icons133763348806757524 1
 64D:\StudioCode\headphones1\node_modules\@parcel\core\src\utils.js133729699206046931 0
 69D:\StudioCode\headphones1\node_modules\@parcel\watcher\src\DirTree.cc133729699193376918 0
 63D:\StudioCode\headphones1\src\sass\abstracts\_placeholders.scss133754774596841474 0
-52D:\StudioCode\headphones1\src\partials\features.html133754774596791775 0
+52D:\StudioCode\headphones1\src\partials\features.html133763596173848526 0
 94D:\StudioCode\headphones1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133729699204836894 0
 57D:\StudioCode\headphones1\node_modules\readdirp\README.md133729699191316917 0
 69D:\StudioCode\headphones1\node_modules\detect-libc\lib\detect-libc.js133729699193066923 0
 63D:\StudioCode\headphones1\node_modules\terser\tools\terser.d.ts133729699203296898 0
+<<<<<<< HEAD
+29D:\StudioCode\headphones1\src133763596173838495 1
+=======
 29D:\StudioCode\headphones1\src133763348807087070 1
+>>>>>>> main
 71D:\StudioCode\headphones1\node_modules\fast-glob\out\providers\matchers133729699200976905 1
 70D:\StudioCode\headphones1\node_modules\caniuse-lite\data\regions\PY.js133729699219427655 0
 100D:\StudioCode\headphones1\node_modules\posthtml-include\node_modules\posthtml-parser\dist\index.d.ts133729699193666911 0
@@ -4854,9 +4871,13 @@
 56D:\StudioCode\headphones1\node_modules\fclone\bower.json133729699191906940 0
 38D:\StudioCode\headphones1\node_modules133762476752038547 1
 97D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133729699217515235 0
+<<<<<<< HEAD
+55D:\StudioCode\headphones1\src\sass\_luxury-section.scss133763552257016188 0
+=======
 55D:\StudioCode\headphones1\src\sass\_luxury-section.scss133763348807217077 0
+>>>>>>> main
 81D:\StudioCode\headphones1\node_modules\posthtml\node_modules\posthtml-parser\dist133729699194156956 1
-49D:\StudioCode\headphones1\src\sass\_features.scss133754774596821545 0
+49D:\StudioCode\headphones1\src\sass\_features.scss133763596173898453 0
 74D:\StudioCode\headphones1\node_modules\source-map\dist\source-map.debug.js133729699197806910 0
 43D:\StudioCode\headphones1\package-lock.json133763348806817182 0
 77D:\StudioCode\headphones1\node_modules\terser\node_modules\commander\index.js133729699190266922 0
@@ -4867,9 +4888,15 @@
 38D:\StudioCode\headphones1\package.json133763348806827354 0
 64D:\StudioCode\headphones1\node_modules\import-fresh\package.json133729699190586919 0
 70D:\StudioCode\headphones1\node_modules\caniuse-lite\data\regions\HU.js133729699217052144 0
+<<<<<<< HEAD
+54D:\StudioCode\headphones1\src\sass\layout\_footer.scss133763596173958469 0
+66D:\StudioCode\headphones1\node_modules\@lezer\common\dist\index.js133729699192266905 0
+53D:\StudioCode\headphones1\src\sass\_bose-section.scss133763596173888450 0
+=======
 54D:\StudioCode\headphones1\src\sass\layout\_footer.scss133763348807267060 0
 66D:\StudioCode\headphones1\node_modules\@lezer\common\dist\index.js133729699192266905 0
 53D:\StudioCode\headphones1\src\sass\_bose-section.scss133763348807187071 0
+>>>>>>> main
 56D:\StudioCode\headphones1\node_modules\yaml\parse-cst.js133729699198256920 0
 111D:\StudioCode\headphones1\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\file2.txt133729699201906922 0
 61D:\StudioCode\headphones1\node_modules\nan\doc\maybe_types.md133729699200656899 0
@@ -4907,7 +4934,11 @@
 53D:\StudioCode\headphones1\node_modules\supports-color133729699191706916 1
 56D:\StudioCode\headphones1\node_modules\nan\nan_private.h133729699196526914 0
 71D:\StudioCode\headphones1\node_modules\postcss-value-parser\lib\walk.js133729699192926911 0
+<<<<<<< HEAD
+35D:\StudioCode\headphones1\src\icons133763596172501336 1
+=======
 35D:\StudioCode\headphones1\src\icons133763348806907335 1
+>>>>>>> main
 61D:\StudioCode\headphones1\node_modules\run-parallel\README.md133729699191126910 0
 61D:\StudioCode\headphones1\node_modules\yaml\dist\parse-cst.js133729699198047013 0
 85D:\StudioCode\headphones1\node_modules\@parcel\package-manager\test\fixtures\packages133729699197306924 1
@@ -4925,7 +4956,11 @@
 53D:\StudioCode\headphones1\src\sass\layout\_forms.scss133754774596891489 0
 55D:\StudioCode\headphones1\node_modules\nan\CHANGELOG.md133729699199896920 0
 70D:\StudioCode\headphones1\node_modules\css-tree\lib\tokenizer\utils.js133729699205256928 0
+<<<<<<< HEAD
+48D:\StudioCode\headphones1\src\sass\_premium.scss133763596173908453 0
+=======
 48D:\StudioCode\headphones1\src\sass\_premium.scss133763348807227613 0
+>>>>>>> main
 85D:\StudioCode\headphones1\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js133729699198676910 0
 83D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\rel-noreferrer.js133729699219521346 0
 108D:\StudioCode\headphones1\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133729699190046907 0
@@ -4938,6 +4973,19 @@
 47D:\StudioCode\headphones1\node_modules\entities133729699197426903 1
 74D:\StudioCode\headphones1\node_modules\type-fest\source\tsconfig-json.d.ts133729699200596895 0
 68D:\StudioCode\headphones1\node_modules\@parcel\workers\src\Worker.js133729699200966908 0
+<<<<<<< HEAD
+40D:\StudioCode\headphones1\src\index.html133763596173828767 0
+87D:\StudioCode\headphones1\node_modules\entities\lib\generated\decode-data-html.d.ts.map133729699196246929 0
+38D:\StudioCode\headphones1\src\index.js133763596173838495 0
+58D:\StudioCode\headphones1\node_modules\term-size\readme.md133729699194786910 0
+38D:\StudioCode\headphones1\src\partials133763596173858481 1
+74D:\StudioCode\headphones1\node_modules\lmdb\dependencies\lz4\lib\README.md133729699205856900 0
+89D:\StudioCode\headphones1\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133729699209847510 1
+61D:\StudioCode\headphones1\node_modules\nan\nan_string_bytes.h133729699197046922 0
+34D:\StudioCode\headphones1\src\sass133763596173948450 1
+83D:\StudioCode\headphones1\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133729699200217009 0
+51D:\StudioCode\headphones1\src\partials\premium.html133763552256936335 0
+=======
 40D:\StudioCode\headphones1\src\index.html133763348807087070 0
 87D:\StudioCode\headphones1\node_modules\entities\lib\generated\decode-data-html.d.ts.map133729699196246929 0
 38D:\StudioCode\headphones1\src\index.js133763356761514535 0
@@ -4949,6 +4997,7 @@
 34D:\StudioCode\headphones1\src\sass133763348807257311 1
 83D:\StudioCode\headphones1\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133729699200217009 0
 51D:\StudioCode\headphones1\src\partials\premium.html133763348807167241 0
+>>>>>>> main
 90D:\StudioCode\headphones1\node_modules\@jridgewell\trace-mapping\dist\types\by-source.d.ts133729699195276927 0
 80D:\StudioCode\headphones1\node_modules\electron-to-chromium\chromium-versions.js133729699189936916 0
 71D:\StudioCode\headphones1\node_modules\yaml\dist\PlainValue-ec8e588e.js133729699198766903 0
@@ -4966,7 +5015,11 @@
 68D:\StudioCode\headphones1\node_modules\sass\types\value\boolean.d.ts133729699203026898 0
 95D:\StudioCode\headphones1\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.js133729699204566902 0
 52D:\StudioCode\headphones1\node_modules\yaml\types.js133729699201346914 0
+<<<<<<< HEAD
+44D:\StudioCode\headphones1\src\sass\index.css133763596173928527 0
+=======
 44D:\StudioCode\headphones1\src\sass\index.css133763353243820720 0
+>>>>>>> main
 63D:\StudioCode\headphones1\node_modules\term-size\vendor\windows133729699192536893 1
 83D:\StudioCode\headphones1\node_modules\parcel-reporter-clean-dist\src\opsLimiter.js133729699195576929 0
 84D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\css-paged-media.js133729699214569802 0
@@ -4977,7 +5030,11 @@
 67D:\StudioCode\headphones1\node_modules\posthtml-render\package.json133729699190706925 0
 66D:\StudioCode\headphones1\node_modules\caniuse-lite\data\agents.js133729699195656913 0
 63D:\StudioCode\headphones1\node_modules\@parcel\fs\src\NodeFS.js133729699195086951 0
+<<<<<<< HEAD
+56D:\StudioCode\headphones1\src\partials\bose-section.html133763552256869401 0
+=======
 56D:\StudioCode\headphones1\src\partials\bose-section.html133763348807107059 0
+>>>>>>> main
 45D:\StudioCode\headphones1\src\sass\components133754774596871508 1
 72D:\StudioCode\headphones1\node_modules\@parcel\packager-svg\package.json133729699191646935 0
 62D:\StudioCode\headphones1\node_modules\parent-module\readme.md133729699191136907 0
@@ -4991,7 +5048,11 @@
 69D:\StudioCode\headphones1\node_modules\type-fest\source\value-of.d.ts133729699200816903 0
 53D:\StudioCode\headphones1\node_modules\nan\doc\new.md133729699200826910 0
 75D:\StudioCode\headphones1\node_modules\@swc\helpers\lib\_super_prop_base.js133729699203146893 0
+<<<<<<< HEAD
+41D:\StudioCode\headphones1\src\sass\layout133763596173958469 1
+=======
 41D:\StudioCode\headphones1\src\sass\layout133763348807267060 1
+>>>>>>> main
 80D:\StudioCode\headphones1\node_modules\svgo\plugins\addAttributesToSVGElement.js133729699194446905 0
 87D:\StudioCode\headphones1\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133729699192296906 0
 61D:\StudioCode\headphones1\node_modules\xxhash-wasm\LICENSE.md133729699194566918 0
@@ -4999,9 +5060,13 @@
 105D:\StudioCode\headphones1\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\file1.txt133729699200046904 0
 67D:\StudioCode\headphones1\node_modules\entities\lib\encode.d.ts.map133729699197076919 0
 48D:\StudioCode\headphones1\src\sass\_example.scss133754774596811483 0
-52D:\StudioCode\headphones1\src\sass\_faq-section.scss133754774596821545 0
+52D:\StudioCode\headphones1\src\sass\_faq-section.scss133763552256986192 0
 84D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\insert-adjacent.js133729699217375313 0
+<<<<<<< HEAD
+57D:\StudioCode\headphones1\src\sass\_purchase-section.scss133763596173918506 0
+=======
 57D:\StudioCode\headphones1\src\sass\_purchase-section.scss133763353241619142 0
+>>>>>>> main
 62D:\StudioCode\headphones1\node_modules\weak-lru-cache\index.js133729699190856927 0
 91D:\StudioCode\headphones1\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist133729699209877520 1
 60D:\StudioCode\headphones1\src\sass\components\_carousel.scss133754774596871508 0
@@ -5047,7 +5112,11 @@
 60D:\StudioCode\headphones1\node_modules\lmdb\dependencies\lz4133729699195766913 1
 70D:\StudioCode\headphones1\node_modules\caniuse-lite\data\regions\PE.js133729699219157944 0
 58D:\StudioCode\headphones1\src\partials\luxury-section.html133763348807137065 0
+<<<<<<< HEAD
+50D:\StudioCode\headphones1\src\partials\footer.html133763454282828641 0
+=======
 50D:\StudioCode\headphones1\src\partials\footer.html133754774596791775 0
+>>>>>>> main
 48D:\StudioCode\headphones1\node_modules\immutable133729699195786914 1
 88D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\background-img-opts.js133729699202106925 0
 85D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\css-font-stretch.js133729699205916917 0
@@ -5055,7 +5124,7 @@
 88D:\StudioCode\headphones1\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133729699192946912 0
 66D:\StudioCode\headphones1\node_modules\svgo\plugins\mergeStyles.js133729699199886911 0
 97D:\StudioCode\headphones1\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules133729699195366909 1
-50D:\StudioCode\headphones1\src\partials\header.html133754774596801678 0
+50D:\StudioCode\headphones1\src\partials\header.html133763596173868610 0
 87D:\StudioCode\headphones1\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133729699196386906 0
 71D:\StudioCode\headphones1\node_modules\htmlnano\docs\docs\030-config.md133729699202627118 0
 74D:\StudioCode\headphones1\node_modules\@nodelib\fs.stat\out\adapters\fs.js133729699191386917 0
@@ -5066,9 +5135,15 @@
 68D:\StudioCode\headphones1\node_modules\@nodelib\fs.walk\out\index.js133729699193136896 0
 90D:\StudioCode\headphones1\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts133729699196986892 0
 68D:\StudioCode\headphones1\node_modules\source-map-support\LICENSE.md133729699193367317 0
+<<<<<<< HEAD
+60D:\StudioCode\headphones1\src\partials\purchase-section.html133763552256956197 0
+58D:\StudioCode\headphones1\node_modules\nan\include_dirs.js133729699198576906 0
+61D:\StudioCode\headphones1\dist\bg-feedback-768px.6a508795.jpg133763596256334346 0
+=======
 60D:\StudioCode\headphones1\src\partials\purchase-section.html133754774596801678 0
 58D:\StudioCode\headphones1\node_modules\nan\include_dirs.js133729699198576906 0
 61D:\StudioCode\headphones1\dist\bg-feedback-768px.6a508795.jpg133763348970525934 0
+>>>>>>> main
 55D:\StudioCode\headphones1\node_modules\stable\stable.js133729699191106942 0
 61D:\StudioCode\headphones1\node_modules\term-size\vendor\macos133729699191326912 1
 77D:\StudioCode\headphones1\node_modules\@parcel\codeframe\lib\codeframe.js.map133729699202436911 0
@@ -5404,7 +5479,11 @@
 84D:\StudioCode\headphones1\node_modules\abortcontroller-polyfill\dist\umd-polyfill.js133729699195516913 0
 46D:\StudioCode\headphones1\node_modules\globals133729699192956902 1
 70D:\StudioCode\headphones1\node_modules\caniuse-lite\data\regions\ST.js133729699219960102 0
+<<<<<<< HEAD
+60D:\StudioCode\headphones1\dist\apple-touch-icon.bb4effea.png133763596255065546 0
+=======
 60D:\StudioCode\headphones1\dist\apple-touch-icon.bb4effea.png133763348969375695 0
+>>>>>>> main
 51D:\StudioCode\headphones1\node_modules\svgo\LICENSE133729699189196952 0
 53D:\StudioCode\headphones1\node_modules\node-gyp-build133729699193036997 1
 47D:\StudioCode\headphones1\node_modules\htmlnano133729699203606913 1
@@ -6135,7 +6214,11 @@
 68D:\StudioCode\headphones1\node_modules\@swc\helpers\src\_inherits.js133729699204937021 0
 80D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\eventsource.js133729699216230552 0
 75D:\StudioCode\headphones1\node_modules\@parcel\package-manager\src\utils.js133729699200076910 0
+<<<<<<< HEAD
+65D:\StudioCode\headphones1\dist\symbol-defs-creations.67f1516a.svg133763596262103865 0
+=======
 65D:\StudioCode\headphones1\dist\symbol-defs-creations.67f1516a.svg133763348971626725 0
+>>>>>>> main
 62D:\StudioCode\headphones1\node_modules\terser\lib\transform.js133729699202816901 0
 55D:\StudioCode\headphones1\node_modules\term-size\vendor133729699192076909 1
 101D:\StudioCode\headphones1\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional.cmd133729699221343834 0
@@ -6468,7 +6551,11 @@
 66D:\StudioCode\headphones1\node_modules\regenerator-runtime\path.js133729699189866915 0
 63D:\StudioCode\headphones1\node_modules\css-what\lib\es\index.js133729699191346916 0
 96D:\StudioCode\headphones1\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133729699193178056 0
+<<<<<<< HEAD
+51D:\StudioCode\headphones1\dist\favicon.3bf6b25c.ico133763596256174329 0
+=======
 51D:\StudioCode\headphones1\dist\favicon.3bf6b25c.ico133763348970364105 0
+>>>>>>> main
 69D:\StudioCode\headphones1\node_modules\@parcel\core\lib\AssetGraph.js133729699197736993 0
 61D:\StudioCode\headphones1\node_modules\normalize-path\LICENSE133729699190566910 0
 68D:\StudioCode\headphones1\node_modules\regenerator-runtime\README.md133729699192036920 0
@@ -6544,7 +6631,11 @@
 90D:\StudioCode\headphones1\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133729699190976913 0
 60D:\StudioCode\headphones1\node_modules\csso\dist\csso.min.js133729699199386905 0
 66D:\StudioCode\headphones1\node_modules\ordered-binary\package.json133729699193056910 0
+<<<<<<< HEAD
+55D:\StudioCode\headphones1\dist\bg-feedback.7f0b2048.jpg133763596255094343 0
+=======
 55D:\StudioCode\headphones1\dist\bg-feedback.7f0b2048.jpg133763348969625695 0
+>>>>>>> main
 57D:\StudioCode\headphones1\node_modules\is-extglob\LICENSE133729699190596914 0
 97D:\StudioCode\headphones1\node_modules\posthtml-include\node_modules\posthtml-parser\package.json133729699192136925 0
 71D:\StudioCode\headphones1\node_modules\@parcel\source-map\dist\types.js133729699196266926 0
@@ -7283,7 +7374,11 @@
 88D:\StudioCode\headphones1\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133729699193367317 0
 73D:\StudioCode\headphones1\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133729699195326936 0
 67D:\StudioCode\headphones1\node_modules\htmlparser2\lib\Tokenizer.js133729699192766907 0
+<<<<<<< HEAD
+52D:\StudioCode\headphones1\dist\index.975ef6c8.js.map133763596264425834 0
+=======
 52D:\StudioCode\headphones1\dist\index.975ef6c8.js.map133763356765498835 0
+>>>>>>> main
 61D:\StudioCode\headphones1\node_modules\@lezer\lr\package.json133729699192826919 0
 75D:\StudioCode\headphones1\node_modules\cosmiconfig\dist\ExplorerBase.js.map133729699196486921 0
 70D:\StudioCode\headphones1\node_modules\caniuse-lite\data\regions\KZ.js133729699217653767 0
@@ -7769,7 +7864,11 @@
 77D:\StudioCode\headphones1\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133729699196276914 0
 66D:\StudioCode\headphones1\node_modules\@parcel\watcher\src\windows133729699199666898 1
 74D:\StudioCode\headphones1\node_modules\@parcel\transformer-webmanifest\src133762475606666444 1
+<<<<<<< HEAD
+48D:\StudioCode\headphones1\dist\index.975ef6c8.js133763596264138589 0
+=======
 48D:\StudioCode\headphones1\dist\index.975ef6c8.js133763356765468952 0
+>>>>>>> main
 71D:\StudioCode\headphones1\node_modules\cosmiconfig\dist\ExplorerBase.js133729699191336925 0
 73D:\StudioCode\headphones1\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133729699200226904 0
 77D:\StudioCode\headphones1\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133729699196706923 0
@@ -8496,7 +8595,11 @@
 87D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\unhandledrejection.js133729699220548698 0
 92D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js133729699220558707 0
 96D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133729699220569553 0
+<<<<<<< HEAD
+69D:\StudioCode\headphones1\dist\headphones-premium-design.89b9acd3.png133763596256534313 0
+=======
 69D:\StudioCode\headphones1\dist\headphones-premium-design.89b9acd3.png133763348969848691 0
+>>>>>>> main
 59D:\StudioCode\headphones1\node_modules\browserslist\LICENSE133729699189406989 0
 72D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\url.js133729699220569553 0
 85D:\StudioCode\headphones1\node_modules\caniuse-lite\data\features\user-select-none.js133729699220599641 0
@@ -8730,7 +8833,11 @@
 67D:\StudioCode\headphones1\node_modules\@parcel\transformer-posthtml133729699192856921 1
 100D:\StudioCode\headphones1\node_modules\@parcel\transformer-webmanifest\src\WebManifestTransformer.js133762475606676452 0
 62D:\StudioCode\headphones1\node_modules\@parcel\transformer-raw133729699191356918 1
+<<<<<<< HEAD
+61D:\StudioCode\headphones1\dist\bg-feedback-480px.af04afb2.jpg133763596255084498 0
+=======
 61D:\StudioCode\headphones1\dist\bg-feedback-480px.af04afb2.jpg133763348969585715 0
+>>>>>>> main
 77D:\StudioCode\headphones1\node_modules\@parcel\transformer-react-refresh-wrap133729699194526920 1
 52D:\StudioCode\headphones1\node_modules\@parcel\types133729699192896916 1
 54D:\StudioCode\headphones1\node_modules\@parcel\watcher133729699203566909 1
@@ -9041,7 +9148,11 @@
 84D:\StudioCode\headphones1\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133729699190226906 0
 69D:\StudioCode\headphones1\node_modules\@parcel\optimizer-htmlnano\lib133729699191366908 1
 78D:\StudioCode\headphones1\node_modules\@parcel\optimizer-htmlnano\package.json133729699193096968 0
+<<<<<<< HEAD
+57D:\StudioCode\headphones1\dist\favicon-96x96.fa45e340.png133763596256014337 0
+=======
 57D:\StudioCode\headphones1\dist\favicon-96x96.fa45e340.png133763348970525934 0
+>>>>>>> main
 84D:\StudioCode\headphones1\node_modules\@parcel\optimizer-htmlnano\src\svgMappings.js133729699192637125 0
 84D:\StudioCode\headphones1\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133729699191806920 0
 64D:\StudioCode\headphones1\node_modules\@parcel\optimizer-css\lib133729699190006924 1
@@ -9119,7 +9230,11 @@
 61D:\StudioCode\headphones1\node_modules\@parcel\logger\LICENSE133729699189496912 0
 66D:\StudioCode\headphones1\node_modules\@parcel\logger\package.json133729699192566904 0
 73D:\StudioCode\headphones1\node_modules\@parcel\logger\test\Logger.test.js133729699191816914 0
+<<<<<<< HEAD
+56D:\StudioCode\headphones1\dist\symbol-defs2.91924c3f.svg133763596261882917 0
+=======
 56D:\StudioCode\headphones1\dist\symbol-defs2.91924c3f.svg133763348971846819 0
+>>>>>>> main
 67D:\StudioCode\headphones1\node_modules\@parcel\logger\src\Logger.js133729699190986911 0
 62D:\StudioCode\headphones1\node_modules\@parcel\hash\browser.js133729699190656915 0
 65D:\StudioCode\headphones1\node_modules\@parcel\hash\index.js.flow133729699190006924 0
@@ -9528,6 +9643,22 @@
 50D:\StudioCode\headphones1\node_modules\.bin\semver133729699221343834 0
 48D:\StudioCode\headphones1\node_modules\.bin\svgo133729699221353895 0
 54D:\StudioCode\headphones1\node_modules\.bin\terser.ps1133729699221353895 0
+<<<<<<< HEAD
+38D:\StudioCode\headphones1\dist\favicon133763596262502923 1
+51D:\StudioCode\headphones1\dist\favicon.edd337dd.svg133763596261892920 0
+60D:\StudioCode\headphones1\dist\headphones-black.76d43432.jpg133763596256014337 0
+55D:\StudioCode\headphones1\dist\img-creator.9047e13d.jpg133763596255065546 0
+56D:\StudioCode\headphones1\dist\img-creators.653710b8.jpg133763596256194328 0
+49D:\StudioCode\headphones1\dist\index.b07a87f3.css133763596264146750 0
+53D:\StudioCode\headphones1\dist\index.b07a87f3.css.map133763596264425834 0
+41D:\StudioCode\headphones1\dist\index.html133763596262103865 0
+60D:\StudioCode\headphones1\dist\luxury-tablet-bg.6e18eb02.jpg133763596255084498 0
+56D:\StudioCode\headphones1\dist\luxury_phone.0ffadcda.png133763596256354400 0
+55D:\StudioCode\headphones1\dist\symbol-defs.505e88bc.svg133763596262103865 0
+68D:\StudioCode\headphones1\dist\web-app-manifest-192x192.25d36828.png133763596255074400 0
+68D:\StudioCode\headphones1\dist\web-app-manifest-512x512.fb81eccf.png133763596256174329 0
+55D:\StudioCode\headphones1\dist\favicon\site.webmanifest133763596262492908 0
+=======
 57D:\StudioCode\headphones1\dist\bose-phone-bg.6c06c81e.png133763348970733933 0
 58D:\StudioCode\headphones1\dist\bose-tablet-bg.066cfbd5.png133763348969695707 0
 38D:\StudioCode\headphones1\dist\favicon133763348970694109 1
@@ -9545,6 +9676,7 @@
 68D:\StudioCode\headphones1\dist\web-app-manifest-192x192.25d36828.png133763348969575688 0
 68D:\StudioCode\headphones1\dist\web-app-manifest-512x512.fb81eccf.png133763348970364105 0
 55D:\StudioCode\headphones1\dist\favicon\site.webmanifest133763348970203962 0
+>>>>>>> main
 58D:\StudioCode\headphones1\assets\actions-config-step-2.png133729696155747196 0
 50D:\StudioCode\headphones1\assets\repo-settings.png133729696155787199 0
 47D:\StudioCode\headphones1\.vscode\settings.json133763348806737069 0
