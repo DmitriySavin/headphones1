@@ -1,6 +1,7 @@
 @media screen and (min-width: 480px) {
   .purchase {
     width: 480px;
+    margin-top: 50px;
   }
   .perchase-position {
     // margin-left: 20px;
@@ -8,13 +9,14 @@
   }
   .purchase__title {
     font-size: 24px;
-    margin-bottom: 32px;
+    margin-bottom: 450px;
     margin-top: 80px;
     // text-align: center;
   }
   .purchase-img {
-    width: 430px;
-    // margin: 0 auto;
+    width: 400px;
+    position: absolute;
+    top: 60px;
   }
   .purchase-ul__item {
     width: 420px;
@@ -44,9 +46,11 @@
 @media screen and (min-width: 768px) {
   .purchase__title {
     font-size: 30px;
+    margin-bottom: 510px;
   }
   .purchase-img {
-    width: 700px;
+    width: 660px;
+    height: 446px;
   }
   .purchase-ul__item {
     width: 660px;
@@ -58,40 +62,59 @@
     width: 360px;
   }
   .feedback-bg {
-width: 660px;
-  height: 360px;
+    width: 660px;
+    height: 360px;
     background-image: url(../images/bg-feedback-768px.jpg);
   }
 }
 @media screen and (min-width: 1200px) {
   .purchase {
     position: relative;
-    height: 1100px;
+            height: 1100px;
+    margin-top: 170px;
   }
+            .purchase__title {
+              margin-bottom: 30px;
+            }
   .purchase-img {
-    width: 640px;
-  height: 645px;
-    position: absolute;
+width: 660px;
+  height: 664px;
+  right: 0;
     top: 0;
-    right: 30px;
+  }
+  .purchase-ul__item {
+    width: 400px;
   }
   .feedback-bg {
     width: 1080px;
     background-image: url(../images/bg-feedback.jpg);
     background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      width: 100%;
-      position: absolute;
-      left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: absolute;
+    left: 0;
   }
-  .purchase-ul__item {
-    width: 400px;
-  }
-     .purchase__btn {
-       width: 400px;
-     }
 }
+.purchase-pos {
+  position: relative;
+}
+
+.purchase-img {
+  //   width: 640px;
+  // height: 645px;
+  position: absolute;
+  // top: 0;
+  // right: 0;
+}
+
+// .purchase-ul__item {
+//   width: 400px;
+// }
+//  .purchase__btn {
+//    width: 400px;
+//  }
+
 .purchase {
   width: 100%;
 }
