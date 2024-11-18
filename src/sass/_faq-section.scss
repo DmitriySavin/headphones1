@@ -1,6 +1,7 @@
 @media screen and (min-width: 480px) {
   .faq {
     width: 430px;
+    margin-top: 340px;
   }
   .accordion {
     width: 430px;
@@ -9,7 +10,9 @@
 @media screen and (min-width: 768px) {
   .faq {
     width: 700px;
+    margin-top: 370px;
   }
+
   .accordion {
     width: 700px;
   }
@@ -17,14 +20,13 @@
 @media screen and (min-width: 1200px) {
   .accordion-title {
     font-size: 44px;
-
   }
-.faq {
-  width: 780px;
-  margin-top: 170px;
-}
+  .faq {
+    width: 780px;
+    margin-top: 170px;
+  }
   .accordion {
-        width: 780px;
+    width: 1100px;
   }
 }
 // .faq {
