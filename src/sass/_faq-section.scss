@@ -17,10 +17,12 @@
 @media screen and (min-width: 1200px) {
   .accordion-title {
     font-size: 44px;
+
   }
-  .faq {
-            width: 780px;
-  }
+.faq {
+  width: 780px;
+  margin-top: 170px;
+}
   .accordion {
         width: 780px;
   }
@@ -28,9 +30,9 @@
 // .faq {
 // margin: 0 auto;
 // }
-.accordion {
-  // margin: 0 auto;
-}
+// .accordion {
+//   // margin: 0 auto;
+// }
 .accordion-item {
   background-color: #ffffff4d;
   margin-bottom: 30px;
