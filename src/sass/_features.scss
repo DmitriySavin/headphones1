@@ -31,8 +31,12 @@
   text-transform: uppercase;
   color: #e7e7e7;
 
+//   @media screen and (min-width: 768px) {
+// padding-left: 20px;
+//     }
+
   @media screen and (min-width: 1200px) {
-    width: 585px;
+    width: 590px;
     font-weight: 600;
     font-size: 54px;
     padding-bottom: 35px;
@@ -41,6 +45,15 @@
     text-transform: uppercase;
     color: #e7e7e7;
   }
+}
+.features-title__br {
+  display: block;
+    @media screen and (min-width: 768px) {
+        display: none;
+      }
+             @media screen and (min-width: 1200px) {
+               display: none;
+             }
 }
 // 
 .features-title__br {

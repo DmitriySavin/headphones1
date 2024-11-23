@@ -13,6 +13,11 @@
   font-size: 16px;
   line-height: 1.25;
   color: rgba(255, 255, 255, 0.8);
+
+  @media screen and (min-width: 768px) {
+padding-bottom: 16px;
+    }
+
   @media screen and (min-width: 1200px) {
     display: flex;
     align-items: center;
@@ -47,7 +52,7 @@
   @media screen and (min-width: 768px) {
     width: 289px;
     font-size: 42px;
-    padding-top: 80px;
+  padding-top: 100px;
   }
 
   @media screen and (min-width: 1200px) {
@@ -112,11 +117,11 @@
   height: 420px;
 
 @media screen and (min-width: 768px) {
-  width: 354px;
-    height: 340px;
+width: 354px;
+  height: 394px;
+  right: -23px;
     position: absolute;
     top: 0;
-    right: 0;
   }
 
     @media screen and (min-width: 1200px) {

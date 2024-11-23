@@ -41,9 +41,12 @@
   .premium-position {
     margin: 0;
   }
+  .premium-design__title {
+    font-size: 30px;
+  }
   .premium-design__img {
-    position: static;
-    // width: 420px;
+    bottom: -110px;
+    left: -0px;
     // height: 440px;
     width: 354px;
     height: 540px;
@@ -56,7 +59,7 @@
     width: 294px;
   }
   .premium-design-list {
-    margin-left: 65px;
+    margin-left: 380px;
   }
   .premium-design-list__item {
     margin-bottom: 45px;
@@ -67,23 +70,24 @@
     height: 616px;
     margin-top: 170px;
   }
-  
+
   .premium-design__title {
     font-size: 54px;
     width: 460px;
   }
   .premium-design-list {
-    margin-left: 80px;
+    margin-left: 620px;
   }
   .premium-design-list__title {
     font-size: 28px;
   }
   .premium-design-list__text {
-        width: 440px;
-          font-size: 18px;
+    width: 440px;
+    font-size: 18px;
   }
   .premium-design__img {
-    position: static;
+    bottom: -110px;
+      left: -0px;
     width: 590px;
     height: 616px;
   }

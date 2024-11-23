@@ -11,6 +11,7 @@
 .header__position {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .header__logo {
@@ -39,7 +40,8 @@
   @media screen and (min-width: 1200px) {
     display: flex;
     /* justify-content: space-between; */
-    padding-left: 330px;
+        margin-left: auto;
+          column-gap: 60px;
   }
 }
 
@@ -53,8 +55,8 @@
 }
 
 .nav__link {
-width: 165px;
-  display: flex;
+// width: 165px;
+  // display: flex;
   /* min-width: 160px; */
   text-decoration: none;
   font-weight: 400;
@@ -79,10 +81,13 @@ width: 165px;
 // @media screen and (min-width: 480px) {
 // height: 367px;
 //   }
-
     @media screen and (min-width: 768px) {
     height: 367px;
     }
+
+ @media screen and (min-width: 1200px) {
+   display: none;
+ }
 
 }
 .modal-menu__logo {

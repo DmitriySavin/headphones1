@@ -65,7 +65,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .luxury-list {
     display: flex;
-    margin-left: 60px;
+    // margin-left: 60px;
     margin-top: 435px;
 }
 .luxury-list__item {
@@ -97,6 +97,7 @@ font-weight: 600;
 font-size: 28px;
 line-height: 125%;
 color: #e7e7e7;
+padding-top: 20px;
 }
 .luxury-list__text {
     font-family: var(--font-family);
